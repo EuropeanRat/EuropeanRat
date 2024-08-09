@@ -7,6 +7,5 @@ silly rat that can code
   Basic CSS - 47% complete 8% skill,
   Java Script - Didnt start yet.
 
-  cMos* - 100% complete 67% skill,
+  Crossiant-Mos - 100% complete 67% skill,
   Batch - 22% complete 74% skill.
-  *cMos stands for Crossiant-Mos 
